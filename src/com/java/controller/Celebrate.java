@@ -53,7 +53,7 @@ public class Celebrate {
 		tmpEventId = "1";
 		event.setEventId(eventId);
 		event.setTitle("Sahana Birthday");
-		event.setTitleMessage("Sudha & Surya welcome you to our princess 3rd birthday!");
+		event.setTitleMessage("Sudha & Surya welcome you to our princess birthday!");
 		event.setBackground("birthday.jpg");
 		events.put(tmpEventId, event);
 		return events.get(eventId);
